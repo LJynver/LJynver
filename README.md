@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<h3>I'd like to emphasize that I'm pretty much very familiar with C, HTML and CSS. The rest are the ones I feel like I'd need to know more</h3>
+<p>I'd like to emphasize that I'm pretty much very familiar with C, HTML and CSS. The rest are the ones I feel like I'd need to know more</p>
  
  
  <h2>Where I learn aside from University</h2>
