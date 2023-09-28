@@ -7,7 +7,7 @@
 * Film Geek. Star Wars, Marvel, DC, etc.
 * *Currently learning DSA (Data Structures and Algorithms) in C, Java's OOP, Javascript and ReactJS.*
 * Aspiring Programmer/Web Developer. Kinda mixed in between the two
-* Started as a Bachelor of Science in Information Technology student in University of San Carlos, Cebu - 2021
+* Started as a Bachelor of Science in Information Technology student in University of San Carlos, Cebu - 2022
 
 <div align="center">
  
