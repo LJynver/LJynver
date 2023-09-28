@@ -45,5 +45,7 @@
  <a href="https://youtube.com/@nesoacademy?si=kprSpwt_2_d3m16a">
    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
  </a>
+
+<p>Nesoacademy ftw!! Also, some of the websites/Youtube channels I refer to for Programming-related topics are CS Dojo, Programiz, C Visualizer and Visualgo</p>
  
 </div>
