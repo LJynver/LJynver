@@ -3,6 +3,7 @@
  <h1>Hello, it's Lyan! Not Liam, Lian, or <em>Layan</em></h1>
 </div>
 
+<div align = "center">
 * I do like to edit videos and photos. Used to, but now I seem to enjoy coding so yes.
 * Film Geek. Star Wars, Marvel, DC, etc.
 * *Currently learning DSA (Data Structures and Algorithms) in C, Java's OOP, Javascript and ReactJS.*
