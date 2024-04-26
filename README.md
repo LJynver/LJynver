@@ -9,21 +9,6 @@
 * Aspiring Programmer/Web Developer. Kinda mixed in between the two
 * Started as a Bachelor of Science in Information Technology student in University of San Carlos, Cebu - 2022
 
-<div align="center">
- 
- <h2>Let's connect, shall we?</h2>
- <a href="https://www.facebook.com/LyanJover/" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
- </a>
- <a href="https://github.com/LJynver" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- </a>
- <a href="https://www.instagram.com/mr.lyanethan/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- </a>
-
-<p>I have TikTok and YouTube though. Just that they're inactive already.</p>
-
  <h2>Tech Stacks</h2>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
